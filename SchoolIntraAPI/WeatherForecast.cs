@@ -1,4 +1,4 @@
-namespace SteinerIntraAPI;
+namespace SchoolIntraAPI;
 
 public class WeatherForecast
 {

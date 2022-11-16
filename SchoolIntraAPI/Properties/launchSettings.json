@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "SteinerIntraAPI": {
+    "SchoolIntraAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

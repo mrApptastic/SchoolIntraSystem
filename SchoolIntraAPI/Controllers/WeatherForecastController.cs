@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace SteinerIntraAPI.Controllers;
+namespace SchoolIntraAPI.Controllers;
 
 [ApiController]
 [Route("[controller]")]
