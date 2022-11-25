@@ -10,5 +10,7 @@ namespace SchoolIntraAPI.Data
         public string Firstnames { get; set; } = "";
         public string Surname { get; set; } = "";
         public DateTime? DateOfBirth { get; set; }
+        public SchoolClass Class { get; set; } = new SchoolClass();
+        public virtual ICollection<ContactPerson> ContactPersons { get; set; } = new List<ContactPerson>();
     }
 }
